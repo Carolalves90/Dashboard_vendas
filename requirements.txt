@@ -1,0 +1,5 @@
+# .venv/Scripts/activate.bat 
+# para descobrir bibliotecas -> pip freeze
+plotly==6.3.0
+pandas==2.3.1
+requests==2.32.5
